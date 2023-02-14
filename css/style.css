@@ -1,0 +1,14 @@
+.my-bg-color-default {
+    background-color: rgba(52, 152, 219, 1);
+
+}
+
+.my-button-no-round {
+    border-radius: 0;
+}
+
+.my-nav-bar {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+
+}
